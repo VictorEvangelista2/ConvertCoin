@@ -10,10 +10,10 @@ document.getElementById('currencyForm').addEventListener('submit', function(even
     const exchangeRates = {
         USD: { BRL: 5.67, EUR: 0.92}, 
         BRL: { USD: 0.18, EUR: 0.16}, 
-        EUR: { USD: 1.08, BRL: 6.15} //O último objeto não recebe a vírgula.
+        EUR: { USD: 1.08, BRL: 6.15} 
     };
 
-    let valorConvertido;
+
     if(daMoeda === paraMoeda){
         valorConvertido = valor;
     }else{
@@ -24,6 +24,6 @@ document.getElementById('currencyForm').addEventListener('submit', function(even
     //Exibir resultado
 
     const conversao = document.getElementById('conversao');
-    conversao.textContent = `resultado: ${valorConvertido}`; 
+    conversao.textContent = `Results: ${valorConvertido.toFixed(2)} ${paraMoeda}`; 
 
 })
