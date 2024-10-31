@@ -1,6 +1,6 @@
 <img src="images/img introduction.png" style="margin-bottom: 20px;">
 
-<img alt="Static Badges" src="https://img.shields.io/badge/version-1.1-blue"> <img alt="Static Badges" src="https://img.shields.io/badge/JS--green"> <img alt="Static Badges" src="https://img.shields.io/badge/CSS--green"> <img alt="Static Badges" src="https://img.shields.io/badge/HTML--green"> <img alt="Static Badges" src="https://img.shields.io/badge/English--purple"><img alt="Static Badges" src="https://img.shields.io/badge/BootStrap-5.0-blue">
+<img alt="Static Badges" src="https://img.shields.io/badge/version-1.1.2-blue"> <img alt="Static Badges" src="https://img.shields.io/badge/JS--green"> <img alt="Static Badges" src="https://img.shields.io/badge/CSS--green"> <img alt="Static Badges" src="https://img.shields.io/badge/HTML--green"> <img alt="Static Badges" src="https://img.shields.io/badge/English--purple"><img alt="Static Badges" src="https://img.shields.io/badge/BootStrap-5.0-blue">
 
 # Introduction
 
