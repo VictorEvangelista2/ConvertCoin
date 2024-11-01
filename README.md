@@ -32,6 +32,8 @@
 
 # Conclusions
 
+![gif](images/gif.gif)
+
 # Used Tecnologies
 
 ## [W3schools](https://www.w3schools.com/)
